@@ -47,8 +47,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "AxonSDK",
-            url: "https://artifacts.applovin.com/ios/com/applovin/axon-sdk/AxonSDK-1.3.2.xcframework.zip",
-            checksum: "95e42cd62da440ee01668b22d6959cbbbcbdd015d4b7e098b1f3d070a86cf1bf"
+            url: "https://artifacts.applovin.com/ios/com/applovin/axon-sdk/AxonSDK-1.3.4.xcframework.zip",
+            checksum: "4d1a1b99c4efbbcf55acf81882a2972a2e0212ba7627eee3e0e4a7f2ee64c72e"
         )
     ]
 )
